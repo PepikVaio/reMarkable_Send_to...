@@ -1,0 +1,58 @@
+{
+   "info":{
+      "title":"Diacritics CS!",
+      "version":"2.0",
+      "date":"08.07.2024",
+      "language":"iPhone shortcut",
+      "developer":"@Wajsar_Josef",
+      "github_path":"https://github.com/PepikVaio/reMarkable_Diacritics_CS",
+      "description":[
+         "Adding diacritics to the text.",
+         "",
+         "(cs) Doplnění diakritiky do textu."
+      ],
+   },
+   
+   "release":{
+      "title":"New Update!",
+      "content":[
+         "A new version is available, please update before continuing.",
+         "You will be redirected to the Github page for the download and some shortcut data will also be deleted.",
+         "",
+         "(cs) Nová aktualizace!",
+         "K dispozici je nová verze, před pokračováním prosím aktualizujte.",
+         "Budete přesměrováni na stránku Github pro stažení a také se smažou některé data zkratky."
+      ],
+      "news":[
+         "* English language added.",
+         "* Added option to delete clipboard.",
+         "* Added check for new updates.",
+         "* Moving the texts to the Github server and the ability to correct errors in the text on the fly.",
+         "* Saving configuration files to iCloud Drive.",
+         "* Changed the notification for inserting edited text.",
+         "",
+         "(cs) Přidán anglický jazyk.",
+         "* Přidaná možnost smazat schránku.",
+         "* Přidaná kontrola nových aktualizací.",
+         "* Přesun textů na Github server a možnosti opravovat chyby v textu za běhu.",
+         "* Ukládání konfiguračních souborů na iCloud Drive.",
+         "* Změna oznámení o vložení upraveného textu."
+      ]
+   },
+   
+   "chatGPT":{
+      "info":[
+         "Insert the text for which you want to add diacritics.",
+         "",
+         "(cs) Vložte text, u kterého chcete doplnit diakritiku."
+      ],
+      "input": "Doplň diakritiku: ",
+      "title":"Done!",
+      "content":[
+         "Diacritics have been added to the text, you have it saved in your clipboard.",
+         "",
+         "(cs) Hotovo!",
+         "Do textu byla přidaná diakritika, máte ji uloženou ve schránce."
+      ]
+   }
+}
