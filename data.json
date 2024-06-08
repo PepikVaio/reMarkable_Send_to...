@@ -1,15 +1,15 @@
 {
    "info":{
-      "title":"Diacritics CS!",
-      "version":"2.0",
+      "title":"Send to...!",
+      "version":"5.0",
       "date":"08.07.2024",
       "language":"iPhone shortcut",
       "developer":"@Wajsar_Josef",
-      "github_path":"https://github.com/PepikVaio/reMarkable_Diacritics_CS",
+      "github_path":"https://github.com/PepikVaio/reMarkable_Send_to...",
       "description":[
-         "Adding diacritics to the text.",
+         "The shortcut is used to send content from safari to reMarkable (article, image, ...)",
          "",
-         "(cs) Doplnění diakritiky do textu."
+         "(cs) Zkratka slouží k odeslání obsahu ze safari do reMarkable (článek, obrázek, …)"
       ],
    },
    
@@ -24,15 +24,11 @@
          "Budete přesměrováni na stránku Github pro stažení a také se smažou některé data zkratky."
       ],
       "news":[
-         "* English language added.",
-         "* Added option to delete clipboard.",
          "* Added check for new updates.",
          "* Moving the texts to the Github server and the ability to correct errors in the text on the fly.",
          "* Saving configuration files to iCloud Drive.",
          "* Changed the notification for inserting edited text.",
          "",
-         "(cs) Přidán anglický jazyk.",
-         "* Přidaná možnost smazat schránku.",
          "* Přidaná kontrola nových aktualizací.",
          "* Přesun textů na Github server a možnosti opravovat chyby v textu za běhu.",
          "* Ukládání konfiguračních souborů na iCloud Drive.",
