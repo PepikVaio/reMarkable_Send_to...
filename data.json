@@ -1,107 +1,117 @@
 {
-   "info":{
-      "title":"Send to...!",
-      "version":"5.0",
-      "date":"08.07.2024",
-      "language":"iPhone shortcut",
-      "developer":"@Wajsar_Josef",
-      "github_path":"https://github.com/PepikVaio/reMarkable_Send_to...",
-      "description":[
-         "The shortcut is used to send content from safari to reMarkable (article, image, ...)",
-         "",
-         "(cs) Zkratka slouží k odeslání obsahu ze safari do reMarkable (článek, obrázek, …)"
-      ]
-   },
-   "release":{
-      "title":"New Update!",
-      "content":[
-         "A new version is available, please update before continuing.",
-         "You will be redirected to the Github page for the download and some shortcut data will also be deleted.",
-         "",
-         "(cs) Nová aktualizace!",
-         "K dispozici je nová verze, před pokračováním prosím aktualizujte.",
-         "Budete přesměrováni na stránku Github pro stažení a také se smažou některé data zkratky."
+  "info":{
+    "title":"Send to...!",
+    "version":"5.0",
+    "date":"08.07.2024",
+    "language":"iPhone shortcut",
+    "developer":"@Wajsar_Josef",
+    "github_path":"https://github.com/PepikVaio/reMarkable_Send_to...",
+    "description":[
+      "The shortcut is used to send content from safari to reMarkable (article, image, ...)",
+      "",
+      "(cs) Zkratka slouží k odeslání obsahu ze safari do reMarkable (článek, obrázek, …)"
+    ]
+  },
+   
+  "release":{
+    "title":"New Update!",
+    "content":[
+      "A new version is available, please update before continuing.",
+      "You will be redirected to the Github page for the download and some shortcut data will also be deleted.",
+      "",
+      "(cs) Nová aktualizace!",
+      "K dispozici je nová verze, před pokračováním prosím aktualizujte.",
+      "Budete přesměrováni na stránku Github pro stažení a také se smažou některé data zkratky."
+    ],
+    "news":[
+      "* Added check for new updates.",
+      "* Moving the texts to the Github server and the ability to correct errors in the text on the fly.",
+      "* Saving configuration files to iCloud Drive.",
+      "* Changed the notification for inserting edited text.",
+      "",
+      "* Přidaná kontrola nových aktualizací.",
+      "* Přesun textů na Github server a možnosti opravovat chyby v textu za běhu.",
+      "* Ukládání konfiguračních souborů na iCloud Drive.",
+      "* Změna oznámení o vložení upraveného textu."
+    ]
+  },
+   
+  "menu":{
+    "info":[
+      "Select a PDF style (each one fits a different web pages).",
+      "",
+      "(cs) Vyberte styl PDF (každý se hodí pro jiné webové stránky)."
+    ],
+    "01":{
+      "title":"Apple PDF"
+    },
+    "02":{
+      "title":"PC version / verze"
+    },
+    "03":{
+      "title":"HTML for ePub / pro ePub"
+    },
+    "04":{
+      "title":"Just images / Pouze obrázky",
+      "content_01":[
+        "Select images.",
+        "",
+        "(cs) Zvolte obrázky."
       ],
-      "news":[
-         "* Added check for new updates.",
-         "* Moving the texts to the Github server and the ability to correct errors in the text on the fly.",
-         "* Saving configuration files to iCloud Drive.",
-         "* Changed the notification for inserting edited text.",
-         "",
-         "* Přidaná kontrola nových aktualizací.",
-         "* Přesun textů na Github server a možnosti opravovat chyby v textu za běhu.",
-         "* Ukládání konfiguračních souborů na iCloud Drive.",
-         "* Změna oznámení o vložení upraveného textu."
-      ]
-   },
-   "menu":{
-      "info":[
-         "Select a PDF style (each one fits a different web pages).",
-         "",
-         "(cs) Vyberte styl PDF (každý se hodí pro jiné webové stránky)."
-      ],
-      "title":[
-         "Enter a file name.",
-         "",
-         "(cs) Zadejte název souboru"
-      ],
-      "01":{
-         "title":"Apple PDF"
+      "question_01": {
+        "title": [
+          "Do you want to adjust the image size?",
+          "",
+          "(cs) Chcete upravit velikost obrázku?"
+        ],
+        "answer_01.content":[
+          "Select the width of the image.",
+          "",
+          "(cs) Zvolte šířku obrázku."
+        ]
       },
-      "02":{
-         "title":"PC version / verze"
-      },
-      "03":{
-         "title":"HTML for ePub / pro ePub"
-      },
-      "04":{
-         "title":"Just images / Pouze obrázky",
-         "select_Images":[
-            "Select images.",
-            "",
-            "(cs) Zvolte obrázky."
-         ],
-         "change_Size":[
-            "Do you want to adjust the image size?",
-            "",
-            "(cs) Chcete upravit velikost obrázku?"
-         ],
-         "new_Size":[
-            "Select the width of the image.",
-            "",
-            "(cs) Zvolte šířku obrázku."
-         ],
-         "merge":[
-            "How do you wish to combine the images?",
-            "",
-            "(cs) Jak si přejete spojit obrázky?"
-         ]
-      },
-      "05":{
-         "title":"Screenshot / Snímek obrazovky",
-         "question":[
-            "Do you have a full screen shot created and copied to the clipboard?",
-            "",
-            "(cs) Máte vytvořený snímek celé obrazovky a zkopírovaný ve schránce?"
-         ],
-         "stop":[
-            "Copy it to the clipboard, then run the shortcut again.",
-            "",
-            "(cs) Vytvořte snímek celé obrazovky!",
-            "Zkopírujte jej do schránky, poté opět spusťte zkratku."
-         ],
-         "help":[
-            "After viewing, run the shortcut again. ",
-            "",
-            "(cs) Přehraje se YouTube video!",
-            "Po zhlédnutí opět spusťte zkratku. "
-         ],
-         "url":[
-            "https://youtube.com/playlist?list=PL_EByhPygE7KMhG8dFomBlpF11fodE9en&si=mRWuF0zYBaheVh8Q"
-         ]
+      "question_02": {
+        "title": [
+          "How do you wish to combine the images?",
+          "",
+          "(cs) Jak si přejete spojit obrázky?"
+        ]
+      }
+    },
+    "05":{
+      "title":"Screenshot / Snímek obrazovky",
+      "question_01": {
+        "title": [
+          "Do you have a full screen shot created and copied to the clipboard?",
+          "",
+          "(cs) Máte vytvořený snímek celé obrazovky a zkopírovaný ve schránce?"
+        ],
+        "answer_02.title":"Take a screenshot of the entire screen!",
+        "answer_02.content":[
+          "Copy it to the clipboard, then run the shortcut again.",
+          "",
+          "(cs) Vytvořte snímek celé obrazovky!",
+          "Zkopírujte jej do schránky, poté opět spusťte zkratku."
+        ],
+        "answer_03.title":"YouTube video will play!",
+        "answer_03.content":[
+          "After viewing, run the shortcut again. ",
+          "",
+          "(cs) Přehraje se YouTube video!",
+          "Po zhlédnutí opět spusťte zkratku. "
+        ],
+        "answer_03.url":[
+          "https://youtube.com/playlist?list=PL_EByhPygE7KMhG8dFomBlpF11fodE9en&si=mRWuF0zYBaheVh8Q"
+        ]
       },
       "06":{
-         "title":"Javascript"
-      }
-   }
+        "title":"Javascript"
+      },
+      "result":[
+        "Enter a file name.",
+        "",
+        "(cs) Zadejte název souboru"
+      ]
+    }
+  }
 }
