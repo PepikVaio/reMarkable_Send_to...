@@ -40,6 +40,11 @@
          "",
          "(cs) Vyberte styl PDF (každý se hodí pro jiné webové stránky)."
       ],
+      "title":[
+         "Enter a file name.",
+         "",
+         "(cs) Zadejte název souboru"
+      ],
       "01":{
          "title":"Apple PDF"
       },
@@ -97,11 +102,6 @@
       },
       "06":{
          "title":"Javascript"
-      },
-      "title":[
-         "Enter a file name.",
-         "",
-         "(cs) Zadejte název souboru"
-      ]
+      }
    }
 }
