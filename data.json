@@ -64,7 +64,7 @@
           "",
           "(cs) Chcete upravit velikost obrázku?"
         ],
-        "answer_01.content":[
+        "answer_01_content":[
           "Select the width of the image.",
           "",
           "(cs) Zvolte šířku obrázku."
@@ -86,21 +86,21 @@
           "",
           "(cs) Máte vytvořený snímek celé obrazovky a zkopírovaný ve schránce?"
         ],
-        "answer_02.title":"Take a screenshot of the entire screen!",
-        "answer_02.content":[
+        "answer_02_title":"Take a screenshot of the entire screen!",
+        "answer_02_content":[
           "Copy it to the clipboard, then run the shortcut again.",
           "",
           "(cs) Vytvořte snímek celé obrazovky!",
           "Zkopírujte jej do schránky, poté opět spusťte zkratku."
         ],
-        "answer_03.title":"YouTube video will play!",
-        "answer_03.content":[
+        "answer_03_title":"YouTube video will play!",
+        "answer_03_content":[
           "After viewing, run the shortcut again. ",
           "",
           "(cs) Přehraje se YouTube video!",
           "Po zhlédnutí opět spusťte zkratku. "
         ],
-        "answer_03.url":[
+        "answer_03_url":[
           "https://youtube.com/playlist?list=PL_EByhPygE7KMhG8dFomBlpF11fodE9en&si=mRWuF0zYBaheVh8Q"
         ]
       }
