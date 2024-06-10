@@ -1,0 +1,25 @@
+body {
+  font-size: 150%;
+}
+
+header {
+  margin: 100px 0px 10px 30px; 
+  line-height: 100%;
+}
+
+img {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+blockquote {
+  font-style: italic;
+  border-left: 2px solid #ccc;
+  padding-left: 10px;
+}
+
+p:nth-of-type(n+2) {
+  text-indent: 20px;
+  margin-top: 10px;
+}
