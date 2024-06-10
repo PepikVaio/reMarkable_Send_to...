@@ -53,11 +53,7 @@
     },
     "04":{
       "title":"Just images / Pouze obrázky",
-      "content_01":[
-        "Select images.",
-        "",
-        "(cs) Zvolte obrázky."
-      ],
+      "content_01":"Select images. / (cs) Zvolte obrázky.",
       "question_01": {
         "title": [
           "Do you want to adjust the image size?",
@@ -65,9 +61,9 @@
           "(cs) Chcete upravit velikost obrázku?"
         ],
         "answer_01_content":[
-          "Select the width of the image.",
+          "Select the width of the image",
           "",
-          "(cs) Zvolte šířku obrázku."
+          "(cs) Zvolte šířku obrázku"
         ]
       },
       "question_02": {
