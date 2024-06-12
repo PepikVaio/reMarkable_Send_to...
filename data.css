@@ -1,11 +1,10 @@
 body {
-  margin: 100px;
+  margin: 0;
   font-size: 150%;
 }
 
 header {
   margin: 100px 0px 10px 30px; 
-  line-height: 100%;
 }
 
 img {
@@ -20,7 +19,7 @@ blockquote {
   padding-left: 10px;
 }
 
-p:nth-of-type(n+2) {
+p {
   text-indent: 20px;
   margin-top: 10px;
 }
