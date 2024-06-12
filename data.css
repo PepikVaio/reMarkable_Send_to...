@@ -8,6 +8,8 @@ header {
 }
 
 img {
+  max-width: 100%;
+  height: auto;
   display: flex;
   justify-content: center;
   margin-bottom: 20px;
