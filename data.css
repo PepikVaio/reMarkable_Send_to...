@@ -4,12 +4,12 @@ body {
 }
 
 header {
-  width: 50%;
+  width: 100%;
   margin: 50px auto 10px auto;
 }
 
 img {
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
   display: flex;
   justify-content: center;
