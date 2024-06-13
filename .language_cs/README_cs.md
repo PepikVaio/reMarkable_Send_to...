@@ -36,22 +36,29 @@ Vytvořte problémy, pokud najdete problém.
 
 ## Historie verzí
 4.0
-* Doplnění (06)
 * Přidán anglický jazyk.
 * Přidaná možnost smazat schránku.
 * Přidaná kontrola nových aktualizací.
 * Přesun textů na Github server a možnosti opravovat chyby v textu za běhu.
 * Ukládání konfiguračních souborů na iCloud Drive.
 * Přidané oznámení o dokončení akce.
+* Doplnění (06)
+  * 06 = Konverze pomocí mozila readability javascriptu poskytuje velmi dobré výsledky.
 
 3.0
 * Doplnění (05)
+  * 05 = Konverze snímků obrazovky, ideální ve čtečku safari a režimu na šířku pro lepší čitelnost.
 
 2.0
 * Doplnění (03, 04)
+  * 03 = Konverze pomocí html, vhodná pro čtečky knih.
+  * 04 = Extrahuje pouze obrázky z webové stránky a uloží je jako pdf.
 
 1.0
 * První vydání
+  * 01 = Konverze pomocí apple, vhodné pro rychlou konverzi.
+  * 02 = konverze podobná PC, vhodná pro zachování vzhledu stránky.
+
 
 ## Autoři
 Wajsar Josef
