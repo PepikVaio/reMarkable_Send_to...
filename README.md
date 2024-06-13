@@ -32,25 +32,29 @@ Create issues if you find a problem.
 
 ## Version History
 4.0
-* Additions (06)
 * Added English language.
 * Added option to delete the clipboard.
 * Added check for new updates.
 * Moved texts to the GitHub server and enabled text correction on the fly.
 * Saving configuration files to iCloud Drive.
 * Added action completion notification.
+* Additions (06)
+  * 06 = Conversion using javascript readability provides very good results.
 
 3.0
 * Additions (05)
+  * 05 = Screenshot conversion, ideal for a safari reader and a match for better readability.
 
 2.0
 * Additions (03, 04)
+  * 03 = Conversion using html, suitable for book readers.
+  * 04 = Extracts only images from the web page and saves as pdf.
 
 1.0
 * First release
 * Additions (01, 02)
-  * 01 =
-  * 02 =
+  * 01 = Conversion using apple suitable for fast conversion.
+  * 02 = PC-like conversion, suitable for maintaining the appearance of the site.
 
 ## Authors
 Wajsar Josef
