@@ -43,7 +43,7 @@ Create issues if you find a problem.
 
 3.0
 * Additions (05)
-  * 05 = Screenshot conversion, ideal for a safari reader and a match for better readability.
+  * 05 = Screenshot conversion, ideal in safari reader and landscape mode for better readability.
 
 2.0
 * Additions (03, 04)
