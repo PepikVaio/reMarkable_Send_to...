@@ -104,10 +104,19 @@
     "06":{
       "title":"Readability"
     },
-    "result":[
-      "Enter a file name.",
-      "",
-      "(cs) Zadejte název souboru"
-    ]
-  }
+    "result": {
+      "file_Name": [
+        "Enter a file name.",
+        "",
+        "(cs) Zadejte název souboru"
+      ],
+      "title": "Done!",
+      "content": [
+        "Diacritics have been added to the text, you have it saved in your clipboard.",
+        "",
+        "(cs) Hotovo!",
+        "Do textu byla přidaná diakritika, máte ji uloženou ve schránce."
+      ]
+    }
+  } 
 }
