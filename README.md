@@ -48,6 +48,9 @@ Create issues if you find a problem.
 
 1.0
 * First release
+* Additions (01, 02)
+- 01 =
+- 02 =
 
 ## Authors
 Wajsar Josef
