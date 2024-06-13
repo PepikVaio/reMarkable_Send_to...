@@ -17,7 +17,7 @@ The shortcut is used to send content from Safari to the reMarkable tablet (artic
 * [reMarkable app](https://apps.apple.com/cz/app/remarkable-mobile/id1274957816?l=cs)
 
 ### Download
-[![download](https://img.shields.io/badge/download-latest_release-slategray)]()
+[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/4a608fa2c3a547ac9d88a981660fc25a)
 
 ### Installation
 Just open the link on your iPhone.
