@@ -46,10 +46,10 @@
       "title":"Apple PDF"
     },
     "02":{
-      "title":"PC version / verze"
+      "title":"PC version / PC verze"
     },
     "03":{
-      "title":"HTML for ePub / pro ePub"
+      "title":"HTML for ePub / HTML pro ePub"
     },
     "04":{
       "title":"Just images / Pouze obrázky",
@@ -102,7 +102,7 @@
       }
     },
     "06":{
-      "title":"Javascript"
+      "title":"Readability"
     },
     "result":[
       "Enter a file name.",
