@@ -1,3 +1,9 @@
+/* Just a copy of the JS file, the original file on the official website:
+ * (cs) Jen kopie JS souboru, originalni soubor na oficiální stránce:
+ * "https://raw.githubusercontent.com/mozilla/readability/main/Readability.js"
+ * @Wajsar Josef
+ */
+
 /*
  * Copyright (c) 2010 Arc90 Inc
  *
