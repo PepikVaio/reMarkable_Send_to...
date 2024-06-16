@@ -32,7 +32,7 @@ Otevřete článek ve webovém prohlížeči safari, stiskněte ikonu sdílet, v
 ## Pomoc
 Vytvořte problémy, pokud najdete problém.
 
-[![YouTube](https://img.shields.io/badge/video-YouTube-red)]()
+[![YouTube](https://img.shields.io/badge/video-YouTube-red)](https://youtu.be/-p3WHwMUhyU)
 
 ## Historie verzí
 4.0
