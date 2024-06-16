@@ -20,7 +20,7 @@ Zkratka slouží k odeslání obsahu ze safari do tabletu reMarkable (článek, 
 
 
 ### Ke stažení
-[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/d2b4a1aa0c4b4fb680502308987de5f9)
+[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/8a8eb6c89ab34f7eb12ad012e8264c50)
 
 ### Instalace
 Stačí otevřít odkaz v iPhone.
