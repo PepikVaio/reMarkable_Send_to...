@@ -4,7 +4,7 @@
 
 
 
-# reMarkable_Send_to...!
+# reMarkable - Send to...!
 Safari do reMarkable.
 
 ## Popis
