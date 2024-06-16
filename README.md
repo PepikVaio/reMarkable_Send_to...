@@ -2,7 +2,7 @@
 [![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_Send_to.../blob/main/.language_cs/README_cs.md)
 [![supported: iPhone](https://img.shields.io/badge/iPhone-supported-blueviolet)](https://www.apple.com/cz/iphone/)
 
-# reMarkable_Send_to...!
+# Send to...!
 Safari to reMarkable.
 
 ## Description
