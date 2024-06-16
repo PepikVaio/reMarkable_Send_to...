@@ -28,7 +28,7 @@ Open the article in the Safari web browser, press the share icon, find the short
 ## Help
 Create issues if you find a problem.
 
-[![YouTube](https://img.shields.io/badge/video-YouTube-red)]()
+[![YouTube](https://img.shields.io/badge/video-YouTube-red)](https://youtu.be/-p3WHwMUhyU)
 
 ## Version History
 4.0
