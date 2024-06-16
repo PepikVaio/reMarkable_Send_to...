@@ -4,7 +4,7 @@
 
 
 
-# reMarkable - Send to...!
+# Send to...!
 Safari do reMarkable.
 
 ## Popis
